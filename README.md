@@ -5,7 +5,7 @@ Effective feature engineering can significantly impact the performance of machin
 Here are some key aspects of feature engineering:
 
 1. **Handling Missing Data:**
-   - Imputation: Filling in missing values with meaningful estimates (e.g., mean, median, or more complex imputation strategies).
+   - Imputation: Filling in missing values with meaningful estimates (e.g., mean, median,mode, or more complex imputation strategies).
    - Indicator variables: Creating binary indicators to denote whether a value is missing.
 
 2. **Encoding Categorical Variables:**
