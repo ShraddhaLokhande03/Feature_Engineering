@@ -27,6 +27,7 @@ Here are some key aspects of feature engineering:
 6. **Creating Interaction Features:**
    - Combining features: Creating new features by combining existing ones, capturing potential interactions.
    - Product terms: Multiplying or dividing features to capture specific relationships.
+   - developing pipelines
 
 7. **Binning or Discretization:**
    - Grouping continuous values into bins or discrete intervals to simplify patterns or handle non-linearity.
