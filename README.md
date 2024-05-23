@@ -40,5 +40,6 @@ Here are some key aspects of feature engineering:
 
 10. **Handling Outliers:**
     - Identifying and treating outliers that might adversely affect model performance by removing them we can increase the accuracy of the model.
+    - this is one of the essential step for proper data processing
 
 Feature engineering is both an art and a science. It requires a deep understanding of the data, the problem domain, and the characteristics of machine learning algorithms. Successful feature engineering can lead to more robust models, improved interpretability, and better generalization to new, unseen data.
