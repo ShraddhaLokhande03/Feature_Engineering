@@ -2,7 +2,7 @@
 Feature engineering is the process of creating new features or modifying existing ones in a dataset to improve the performance of a machine learning model. The goal here is to extract relevant information from the raw data and represent it in a way that enhances the model's ability to learn patterns, make predictions, or perform other tasks. 
 Effective feature engineering can significantly impact the performance of machine learning
 
-Here are some key aspects of feature engineering:
+
 
 1. **Handling Missing Data:**
    - Imputation: Filling in missing values with meaningful estimates (e.g., mean, median,mode, or more complex imputation strategies).
